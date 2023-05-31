@@ -1,0 +1,23 @@
+body {
+    background-color: #E9ECEF ;
+}
+
+
+.page-title, h5{
+    text-align: center;
+    color: #A459D1;
+}
+
+.card img {
+    width: 12rem;
+    height: 12rem;
+    /* margin: 10% auto; */
+}
+
+.btn-hakkımızda {
+    margin-top: 10px;
+}
+
+.card {
+    margin-bottom: 4%;
+}
